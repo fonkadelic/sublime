@@ -5,11 +5,16 @@
 	],
 	"installed_packages":
 	[
+		"Gist",
 		"GitGutter",
+		"Gradle_Language",
 		"MarkdownEditing",
 		"Marked App Menu",
 		"Material Theme",
 		"Package Control",
+		"Pretty JSON",
+		"Random Everything",
+		"SublimeREPL",
 		"Swift",
 		"Table Editor",
 		"Vintageous"
